@@ -2,6 +2,8 @@
 
 Now that you have written a fully functional Clac implementation it is time to put it to use. Below are a list of problems to solve with clac:
 
+* A `nop` does nothing
+* Setermine whether a number is even
 * Count number of digits in number (digits)
 * Temperature converter
 	* Degree to Celcius (fah2cel)
@@ -14,7 +16,7 @@ Now that you have written a fully functional Clac implementation it is time to p
 * Print the first n fibonnaci numbers (n fib)
 * Convert Binary to Decimal (bin2dec)
 
-##### The ClacRunner has been modified to allow clac code to be run from .clac files.
+#### The ClacRunner has been modified to allow clac code to be run from .clac files.
 
 A program.clac file:
 ```clac
